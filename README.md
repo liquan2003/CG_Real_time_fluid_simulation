@@ -18,11 +18,11 @@ stable fluids： advection + Forces + projection
 
 在GPU上实现stable fluids实现了BFECC增强细节
 
-详细细节见[report](report\team16_report.pdf)
+详细细节见[report](report/team16_report.pdf)
 
 ### **Result：**
 
-[demo](report\demo_eulerian_3d.mkv)
+[demo](report/demo_eulerian_3d.mkv)
 
 ## Author：
 
